@@ -23,8 +23,6 @@
       Windows: [NetBeans for Windows 8.2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNzTWYtMG93eUMwXzJHb2RDRm1KaFp1YlRyUXxBQ3Jtc0ttWWpvRHZHZzM4MUNYRndTaUxwRUxVUVltZU1PSWZ4X0dPRUZxU0NMWEE1SzlCMk5TVlhMN2R4R2pxSFpDODdhUlJsUVJUTXc4QTN2cWlIaE5oMWVKWGliTTZUUm1ueFFTNE5xeG51NUVFRnJtS25LRQ&q=https%3A%2F%2Fbit.ly%2F3MMVGTe&v=ASd1S-_HLWw)
 
 
-# REMOVE COPY WORD FROM EACH FILE NAME.
-
 ### Assignment 1:
 
 Terminal 1:
@@ -66,17 +64,6 @@ Terminal 1:
 Terminal 2:
 
     java ReverseClient -ORBInitialPort 1056 -ORBInitialHost localhost
-
-### Assignment 4:
-
-Terminal 1:
-
-    python client.py
-
-
-Terminal 2:
-
-    python server.py
 
 ### Assignment 4:
 Commands to run Berkeley algo in Berkeley Folder(Short code) 4-File code
